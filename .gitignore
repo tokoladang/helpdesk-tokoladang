@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+docs/.vitepress/dist/
+
+# Cache
+docs/.vitepress/cache/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# env
+.env
+
+# vibe enginering
+prompt.txt
+issue.md
