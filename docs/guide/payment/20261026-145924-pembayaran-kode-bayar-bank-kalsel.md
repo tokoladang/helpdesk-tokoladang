@@ -23,7 +23,8 @@ Panduan ini menjelaskan pembayaran transaksi marketplace SIPLah Toko Ladang meng
 3. Pada halaman checkout, pilih **metode pembayaran** Bank Kalsel, kemudian klik tombol **Lanjut Pembayaran**.
 4. Marketplace menampilkan halaman informasi pembayaran. Catat **kode bayar (nomor billing)**, **total pembayaran**, dan **batas waktu pembayaran**.
 
-> **Catatan:** Kode bayar inilah yang dimasukkan oleh user Maker pada langkah berikutnya. Pastikan kode bayar sesuai dengan tagihan di marketplace.
+::: tip Catatan: Kode bayar inilah yang dimasukkan oleh user Maker pada langkah berikutnya. Pastikan kode bayar sesuai dengan tagihan di marketplace
+:::
 
 ## User: MAKER
 

@@ -119,6 +119,6 @@ Panduan ini menjelaskan alur transaksi lengkap dari sisi pembeli di SIPLah Toko 
 
 - Perhatikan **Batas Waktu Penyelesaian** pada setiap pesanan (contoh: 30 hari sejak tanggal pemesanan). Selesaikan penerimaan barang dan pembayaran sebelum batas waktu terlampaui.
 - Setelah BAST dicetak, dokumen bersifat **final** dan tidak dapat dibatalkan. Pastikan data penerima, qty, dan harga sudah benar sebelum konfirmasi.
-- Pembayarannya dilakukan melalui metode yang dipilih saat pemeriksaan pesanan. Panduan transfer per bank tersedia di [Daftar Panduan Cara Pembayaran](/guide/list).
+- Pembayarannya dilakukan melalui metode yang dipilih saat pemeriksaan pesanan. Panduan transfer per bank tersedia di [Daftar Panduan Cara Pembayaran](/guide/list#cara-pembayaran).
 - Sesuai UU ITE Pasal 5, gunakan **Tanda Tangan Elektronik (TTE)** untuk dokumen agar sah secara hukum. Penggunaan TTE dapat dikonfirmasi ke penyedia dengan nomor yang tercantum pada halaman pesanan.
 - Gunakan menu **Daftar Pesanan** untuk memantau status (**Baru**, **Dikirim**, **Bayar Berhasil**, **Gagal**) dan **Ekspor Data** untuk kebutuhan pelaporan.
