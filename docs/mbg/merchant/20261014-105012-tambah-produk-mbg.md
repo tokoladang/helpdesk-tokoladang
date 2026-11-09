@@ -23,3 +23,4 @@ date: 2026-10-14
 5. Centang Pernyataan, dan Klik Simpan
    ![Pernyataan](/images/mbg/pernyataan-save2.png)
 6. Produk langsung tayang.
+tes
