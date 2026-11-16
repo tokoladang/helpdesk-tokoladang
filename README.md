@@ -43,7 +43,3 @@ docs/
 ├── index.md                           # Halaman depan
 └── faq.md                             # FAQ
 ```
-
-## Lisensi
-
-Hak cipta © PT Ladang Karya Husada.
