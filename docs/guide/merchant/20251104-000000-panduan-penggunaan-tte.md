@@ -27,44 +27,50 @@ ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/Ud9tsph
 
 ![Form buat TTE dokumen - isi email](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k974pnw23dgccadeqpey41mv.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k974pnw23dgccadeqpey41mv.webp)
 
-8. Cek email **Penjual** dan **Pembeli** untuk melakukan Tanda Tangan
-9. Contoh email dari sisi **Penjual**, klik tombol **Review and Sign**
+8. Setelah kode pembayaran QRIS muncul, lakukan pemindaian (scan) kode QR tersebut untuk menyelesaikan pembayaran biaya TTE sesuai dengan nominal yang tertera.
+9. Setelah pembayaran berhasil dilakukan melalui QRIS, klik tombol **Cek Pembayaran** untuk memverifikasi status pembayaran.
+    ![klik cek pembayaran](/images/tte01.jpeg)
+10. Setelah melakukan pengecekan pembayaran dan muncul tampilan seperti pada gambar berikut, maka tautan (link) TTE telah berhasil dikirimkan ke alamat email yang didaftarkan sebelumnya.
+    ![view verifikasi pembayaran ](/images/tte02.jpeg)
+
+11. Cek email **Penjual** dan **Pembeli** untuk melakukan Tanda Tangan
+12. Contoh email dari sisi **Penjual**, klik tombol **Review and Sign**
 
 ![Email Review and Sign untuk TTE](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991fyak2gmpwfqmayq50xfe.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991fyak2gmpwfqmayq50xfe.webp)
 
-10.Setelah klik tombol **Review and Sign**, anda akan dialihkan ke halaman **Tanda Tangan Elektronik**
+13. Setelah klik tombol **Review and Sign**, anda akan dialihkan ke halaman **Tanda Tangan Elektronik**
 
-11. Klik tombol **I Agree**, lalu klik tombol **Start Signing**
+14. Klik tombol **I Agree**, lalu klik tombol **Start Signing**
 
 ![Halaman tanda tangan elektronik - I Agree dan Start Signing](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991w9mh2431k3d9y0bfdcbh.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991w9mh2431k3d9y0bfdcbh.webp)
 
-12. Gulir kebawah hingga menemukan kolom tanda tangan, klik bagian **Click here to sign** untuk melakukan tanda tangan
+15. Gulir kebawah hingga menemukan kolom tanda tangan, klik bagian **Click here to sign** untuk melakukan tanda tangan
 
 ![Kolom tanda tangan - Click here to sign](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991ymsfp31kzt1f41krz4w4.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k991ymsfp31kzt1f41krz4w4.webp)
 
-13. Pilih jenis tanda tangan digital, contoh kali ini adalah menggunakan **QR Code**
-14. Setelah itu klik tombol **Submit.**
+16. Pilih jenis tanda tangan digital, contoh kali ini adalah menggunakan **QR Code**
+17. Setelah itu klik tombol **Submit.**
 
 ![Pilih jenis tanda tangan digital - QR Code](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9920faad09trfcz09nepdfx.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9920faad09trfcz09nepdfx.webp)
 
-15. Pratinjau tanda tangan dapat dilihat pada kolom tanda tangan, jika sudah sesuai klik tombol **Finish** di pojok kanan atas.
+18. Pratinjau tanda tangan dapat dilihat pada kolom tanda tangan, jika sudah sesuai klik tombol **Finish** di pojok kanan atas.
 
 ![Pratinjau tanda tangan - tombol Finish](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9921kden4x873wkm5tc4p84.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9921kden4x873wkm5tc4p84.webp)
 
-16. Setelah muncul halaman seperti ini, menandakan bahwa **Tanda Tangan Elektronik berhasil dilakukan.**
+19. Setelah muncul halaman seperti ini, menandakan bahwa **Tanda Tangan Elektronik berhasil dilakukan.**
 
 ![TTE berhasil dilakukan](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9929a820tc6fyr6y0ny6dzr.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k9929a820tc6fyr6y0ny6dzr.webp)
 
-17. Untuk melihat dokumen yang sudah ditandatangani, masuk ke detail pesanan lalu gulir kebawah hingga di bagian **Unduh Dokumen (Dengan Tanda Tangan Elektronik)**
-18. Klik dokumen yang ingin di download
+20. Untuk melihat dokumen yang sudah ditandatangani, masuk ke detail pesanan lalu gulir kebawah hingga di bagian **Unduh Dokumen (Dengan Tanda Tangan Elektronik)**
+21. Klik dokumen yang ingin di download
 
 ![Unduh dokumen dengan TTE](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k992b8ztjy63zrscvhyjx3jt.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k992b8ztjy63zrscvhyjx3jt.webp)
 
-19. Berikut tampilan pada dokumen yang sudah ditandatangani
+22. Berikut tampilan pada dokumen yang sudah ditandatangani
 
 ![Dokumen yang sudah ditandatangani TTE](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k992cpfz5s1ed93s8h0h0f1a.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01k992cpfz5s1ed93s8h0h0f1a.webp)
 
-20. Cara tanda tangan elektronik di sisi **Pembeli** alur nya sama seperti di atas setelah Penyedia mengajukan **Tanda Tangan Elektronik.** Dengan melihat email dari sisi **Pembeli**
+23. Cara tanda tangan elektronik di sisi **Pembeli** alur nya sama seperti di atas setelah Penyedia mengajukan **Tanda Tangan Elektronik.** Dengan melihat email dari sisi **Pembeli**
 
 Panduan menggunakan **Tanda Tangan Elektronik** sudah selesai.
 
@@ -72,4 +78,5 @@ Panduan menggunakan **Tanda Tangan Elektronik** sudah selesai.
 
 1. Biaya yang ditimbulkan oleh penggunaan **Tanda Tangan Elektronik dihitung setiap dokumen.**
 2. Jika merubaha **data pengajuan TTE**, akan menimbulkan biaya yang sama. Penggunaan **Kirim Ulang Link** tidak akan menimbulkan biaya tambahan.
-3. Setelah melakukan proses TTE. Biaya dari penggunaan TTE akan dipotong atau di bebankan ketika **penerusan dana ke Merchant**
+3. Setelah proses TTE dilakukan, biaya penggunaan TTE tidak akan dipotong maupun dibebankan pada saat penerusan dana kepada Merchant, karena biaya tersebut telah dibayarkan terlebih dahulu melalui kode QRIS pada awal proses pembuatan TTE.
+
