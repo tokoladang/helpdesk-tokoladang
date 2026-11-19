@@ -27,5 +27,9 @@ export const merchantGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'Panduan Memproses Pesanan',
             link: '/guide/merchant/20261109-000000-panduan-memproses-pesanan',
         },
+        {
+            text: 'Panduan Top Up Kuota TTE',
+            link: '/guide/merchant/20261119-000000-panduan-topup-tte',
+        },
     ]
 }
