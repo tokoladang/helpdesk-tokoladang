@@ -38,5 +38,9 @@ export const paymentGuideSidebarItem = (): DefaultTheme.SidebarItem[] => {
             text: 'VA BSI',
             link: '/guide/payment/20261102-000000-pembayaran-va-bsi',
         },
+        {
+            text: 'VA Bank Kalbar',
+            link: '/guide/payment/20261120-000000-pembayaran-va-kalbar',
+        },
     ]
 }
