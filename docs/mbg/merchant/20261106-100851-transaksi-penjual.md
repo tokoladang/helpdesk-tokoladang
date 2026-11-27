@@ -30,11 +30,11 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 
 1. Buka situs penjual SIPLah Toko Ladang, lalu klik tombol **Masuk** atau **Daftar Jadi Penjual** pada halaman beranda LOKA MBG.
 
-    ![Beranda SIPLah Toko Ladang LOKA MBG](/images/mbg/transaksi-penjual/1.png)
+    ![Beranda SIPLah Toko Ladang LOKA MBG](/images/mbg/merchant/transaksi-penjual/1.png)
 
 2. Akan muncul pilihan **Login Sebagai**. Pilih **Penjual** (_Login untuk menjual bahan baku MBG_).
 
-    ![Pilihan login sebagai penjual](/images/mbg/transaksi-penjual/2.png)
+    ![Pilihan login sebagai penjual](/images/mbg/merchant/transaksi-penjual/2.png)
 
     :::tip INFO
     Halaman yang sama juga digunakan oleh pembeli. Pastikan Anda memilih **Penjual**, bukan **SPPG (BGN)** yang menggunakan akun SSO SIPGN BGN.
@@ -42,7 +42,7 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 
 3. Pada halaman **Dasbor Penjual**, isi **Email** dan **Password** akun toko, lalu klik tombol **Masuk**. Gunakan tautan **Lupa Kata Sandi?** bila Anda lupa kata sandi.
 
-    ![Form login dasbor penjual](/images/mbg/transaksi-penjual/3.png)
+    ![Form login dasbor penjual](/images/mbg/merchant/transaksi-penjual/form-login.png)
 
 ## 2. Buka daftar pesanan
 
@@ -56,29 +56,29 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 
 3. Kolom **Informasi Pesanan** menampilkan kode pesanan, nama sekolah/SPPG, tanggal pesanan, serta **Nominal** pesanan dan **Status** terkini.
 4. Pada **Daftar Pesanan** klik **nomor PO** atau tombol icon titik 3 **(...)** untuk melihat detail pesanan
-    ![Daftar pesanan penjual beserta filter status](/images/mbg/transaksi-penjual/4.png)
+    ![Daftar pesanan penjual beserta filter status](/images/mbg/merchant/transaksi-penjual/4.png)
 
 ## 3. Konfirmasi proses pesanan
 
 1. Pada bagian **Aksi**, klik tombol untuk terima pesanan sehingga muncul pop-up **Konfirmasi Proses Pesanan**.
-   ![Detail pesanan penjual status baru](/images/mbg/transaksi-penjual/5.png)
+   ![Detail pesanan penjual status baru](/images/mbg/merchant/transaksi-penjual/5.png)
 2. Lengkapi isian pada pop-up tersebut:
     - **Jangka Waktu Pelaksanaan Pekerjaan** dan **Estimasi Pengiriman** sesuai kesiapan barang.
 
 
 3. Setelah klik **Proses**, status pesanan berubah menjadi **Diproses**.
-    ![Pop-up konfirmasi proses pesanan dan metode transfer](/images/mbg/transaksi-penjual/pop-up-cofirm.png)
+    ![Pop-up konfirmasi proses pesanan dan metode transfer](/images/mbg/merchant/transaksi-penjual/pop-up-cofirm.png)
 
 ## 5. Kirim pesanan
 
 1. Pada bagian **Aksi**, klik tombol **Kirim Pesanan**. Form **Konfirmasi Pengiriman** akan terbuka pada kolom **Informasi Pengiriman**.
 
-    ![Detail pesanan status pesanan dibuat](/images/mbg/transaksi-penjual/7.png)
+    ![Detail pesanan status pesanan dibuat](/images/mbg/merchant/transaksi-penjual/7.png)
 
 2. Isi **Nomor Resi** bila menggunakan ekspedisi yang memiliki nomor resi. Kolom ini bersifat **opsional**, misalnya untuk pengiriman tidak dengan **Kurir Toko**.
 3. Klik tombol **Simpan** untuk mengonfirmasi pengiriman. Status pesanan berubah menjadi **Pengiriman** dan pembeli dapat memantau pengiriman tersebut.
 
-    ![Form konfirmasi pengiriman dan input nomor resi](/images/mbg/transaksi-penjual/8.png)
+    ![Form konfirmasi pengiriman dan input nomor resi](/images/mbg/merchant/transaksi-penjual/8.png)
 
 ## 6. Serah terima dan dokumen transaksi
 
@@ -102,8 +102,8 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 1. Pada bagian **Aksi**, klik **Cek Pembayaran** untuk memeriksa status pembayaran pesanan.
 2. Pilih **Metode Pembayaran** yang digunakan pembeli (contoh: **Virtual Akun (Bank Jateng)**), lalu periksa status pembayarannya.
 
-    ![Detail pesanan setelah serah terima beserta dokumen transaksi](/images/mbg/transaksi-penjual/9.png)
-    ![Pop-up cek pembayaran dengan pilihan metode pembayaran](/images/mbg/transaksi-penjual/10.png)
+    ![Detail pesanan setelah serah terima beserta dokumen transaksi](/images/mbg/merchant/transaksi-penjual/9.png)
+    ![Pop-up cek pembayaran dengan pilihan metode pembayaran](/images/mbg/merchant/transaksi-penjual/10.png)
 
 3. Bila pembayaran belum terverifikasi, status pesanan masih menampilkan tahapan **BAST dibuat**. Pembayaran dari SPPG akan diverifikasi sesuai metode yang dipilih pada saat serah terima.
 
@@ -127,13 +127,13 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 
 4. Penerusan dana akan dilakukan 1x24jam saat jam kerja dan di hari kerja
 
-    ![Detail pesanan dengan pembayaran terverifikasi](/images/mbg/transaksi-penjual/11.png)
+    ![Detail pesanan dengan pembayaran terverifikasi](/images/mbg/merchant/transaksi-penjual/11.png)
 
 ## 9. Menanggapi negosiasi pembeli
 
 1. Buka menu **Negosiasi** pada sidebar untuk membuka halaman **Daftar Negosiasi**. Halaman ini menampilkan pengajuan negosiasi dari sekolah/SPPG beserta **Nama Sekolah**, **Diajukan**, dan **Tanggal**.
 
-    ![Daftar negosiasi penjual](/images/mbg/transaksi-penjual/negosiasi/1.png)
+    ![Daftar negosiasi penjual](/images/mbg/merchant/transaksi-penjual/negosiasi/1.png)
 
 2. Klik tombol icon titik tiga **(...)** pada baris negosiasi untuk membuka pop-up **Detail Negosiasi**.
 
@@ -142,7 +142,7 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
     - **Nego Anda (Rp)** — harga penawaran dari penjual.
     - **Nego Pembeli (Rp)** — harga yang diajukan pembeli.
 
-    ![Detail negosiasi produk](/images/mbg/transaksi-penjual/negosiasi/2.png)
+    ![Detail negosiasi produk](/images/mbg/merchant/transaksi-penjual/negosiasi/2.png)
 
 4. Tentukan respons Anda:
     - Pilih **Setuju** untuk menerima pengajuan negosiasi.
@@ -151,7 +151,7 @@ Setelah respons negosiasi disetujui, pesanan yang masuk mengikuti harga hasil ke
 
 5. Jika memilih **Setuju** Klik tombol **Simpan** untuk memproses negosiasi. Akan muncul dialog **Peringatan! Apakah Anda Akan Memproses Data ini?** — klik **Lanjutkan** untuk melanjutkan atau **Batal** untuk membatalkan.
 
-    ![Dialog konfirmasi proses negosiasi](/images/mbg/transaksi-penjual/negosiasi/3.png)
+    ![Dialog konfirmasi proses negosiasi](/images/mbg/merchant/transaksi-penjual/negosiasi/3.png)
 
 6. Setelah diproses, status negosiasi pada halaman **Daftar Negosiasi** akan diperbarui sesuai respons yang Anda berikan.
    Respon:
